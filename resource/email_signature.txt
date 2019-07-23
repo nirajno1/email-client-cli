@@ -1,0 +1,11 @@
+<img src="data:image/png;base64,##image##">
+<p>
+Thomas Walter</br>
+Director Business Development</br>
+</p>
+<p>
+HOLIDAY FACTORY L.L.C</br>
+One Tower Omniyat, 2802, Business Bay</br>
+Sheikh Zayed Road P.O. Box 35937</br>
+Dubai - United Arab Emirates</br>
+</p>

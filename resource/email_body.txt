@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2"/>
+</head>
+<body>
+<p>Greeting of the Day !</p>
+<p>This is only a brief question about your tourism activities.</p>
+<p>Do you work in inbound or outbound?</p>
+<p>Thanks for a short answer, Thomas</p>
+
+##sign##
+</body></html>
