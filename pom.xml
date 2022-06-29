@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java-version>1.8</java-version>
 		<ms-exchange-version>1.1.5.2</ms-exchange-version>
-		<poi-version>4.1.0</poi-version>
+		<poi-version>4.1.1</poi-version>
 	</properties>
 
   <dependencies>
